@@ -1,0 +1,11 @@
+E:\C# & Delphi\PROJECT\PROJECT\bin\Debug\PROJECT.exe
+E:\C# & Delphi\PROJECT\PROJECT\bin\Debug\PROJECT.pdb
+E:\C# & Delphi\PROJECT\PROJECT\obj\Debug\ResolveAssemblyReference.cache
+E:\C# & Delphi\PROJECT\PROJECT\obj\Debug\PROJECT.FormMain.resources
+E:\C# & Delphi\PROJECT\PROJECT\obj\Debug\PROJECT.Properties.Resources.resources
+E:\C# & Delphi\PROJECT\PROJECT\obj\Debug\PROJECT.csproj.GenerateResource.Cache
+E:\C# & Delphi\PROJECT\PROJECT\obj\Debug\PROJECT.exe
+E:\C# & Delphi\PROJECT\PROJECT\obj\Debug\PROJECT.pdb
+E:\C# & Delphi\PROJECT\PROJECT\obj\Debug\PROJECT.FormDataBase.resources
+E:\C# & Delphi\PROJECT\PROJECT\obj\Debug\PROJECT.Form2.resources
+E:\C# & Delphi\PROJECT\PROJECT\obj\Debug\PROJECT.Form3.resources
